@@ -33,3 +33,6 @@ C:\ElevenFiftySD\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.
 C:\ElevenFiftySD\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\ElevenFiftySD\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\ElevenFiftySD\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\ElevenFiftySD\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\ElevenFiftySD\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\ElevenFiftySD\BlueBadge\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.firstMigration.resources

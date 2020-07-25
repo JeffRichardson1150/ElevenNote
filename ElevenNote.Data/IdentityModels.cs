@@ -10,6 +10,8 @@ using Microsoft.AspNet.Identity.Owin;
 namespace ElevenNote.Data
 {
     // You can add profile data for the user by adding more properties to your ApplicationUser class, please visit https://go.microsoft.com/fwlink/?LinkID=317594 to learn more.
+
+    // IdentityUser lets users log in using their Facebook, Google, etc. logins
     public class ApplicationUser : IdentityUser
     {
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager, string authenticationType)
@@ -23,6 +25,7 @@ namespace ElevenNote.Data
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
+        // This ApplicationDbContext inherits(?) from 
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
